@@ -46,7 +46,7 @@ The final scene models a 3D printing workstation consisting of:
 
 - C++
 
-- OpenGL 4.x
+- OpenGL
 
 - GLFW
 
@@ -54,7 +54,7 @@ The final scene models a 3D printing workstation consisting of:
 
 - GLM
 
-- Visual Studio 2022
+- Visual Studio 2026
 
 ---
 
